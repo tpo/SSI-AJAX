@@ -140,9 +140,9 @@ case unresolved.
 
 ### Apache-side configuration
 
-[00-ssi-ajax.conf](00-ssi-ajax.conf defines the "include" mechanism)
+[00-ssi-ajax.conf](00-ssi-ajax.conf) defines the "include" mechanism
 
-[ssi-ajax-demo.conf](ssi-ajax-demo.conf specifies which directory)
+[ssi-ajax-demo.conf](ssi-ajax-demo.conf) specifies which directory
 contains the HTML files that get their includes replaced on the server-side.
 
 Both config files should be added and enabled in
@@ -173,9 +173,9 @@ The syntax of the inclusion mechanism ("ssi-ajax" tag) was inspired by
 * [Apache mod_include documentation](https://httpd.apache.org/docs/current/mod/mod_include.html)
 * [Péter Vértényi's post]
 * a few discussions on StackOverflow about a HTML "include" mechanisms:
-  * [1](https://stackoverflow.com/questions/3928331/equivalent-of-include-in-html)
-  * [2](https://stackoverflow.com/questions/8988855/include-another-html-file-in-a-html-file)
-  * [3](https://softwareengineering.stackexchange.com/questions/7245/why-no-client-side-html-include-tag#7256)
-  * [4](https://stackoverflow.com/questions/7542872/how-to-include-one-html-file-into-another)
-  * [5](https://github.com/whatwg/html/issues/331)
+  [here](https://stackoverflow.com/questions/3928331/equivalent-of-include-in-html),
+  [here](https://stackoverflow.com/questions/8988855/include-another-html-file-in-a-html-file),
+  [here](https://softwareengineering.stackexchange.com/questions/7245/why-no-client-side-html-include-tag#7256),
+  [here](https://stackoverflow.com/questions/7542872/how-to-include-one-html-file-into-another) and
+  [here](https://github.com/whatwg/html/issues/331)
 * [a critique of existing "include" mechanisms](http://tpo.sourcepole.ch/articles/168%20html-http-considered-harmful.html)
