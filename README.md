@@ -15,7 +15,7 @@ of the "include.html" file.
 * [Why would SSI-AJAX be useful?](https://github.com/tpo/SSI-AJAX#why-would-ssi-ajax-be-useful)
 * [What would the characteristics of an optimal include mechanisms be?](https://github.com/tpo/SSI-AJAX#what-would-the-characteristics-of-an-optimal-include-mechanisms-be)
 * [Shortcomings of existing "include" mechanisms](https://github.com/tpo/SSI-AJAX#shortcomings-of-existing-include-mechanisms)
-* [Why doesn't HTML have a "include" mechanism](https://github.com/tpo/SSI-AJAX#why-doesnt-html-have-a-include-mechanism)
+* [Why doesn't HTML have a "include" mechanism?](https://github.com/tpo/SSI-AJAX#why-doesnt-html-have-a-include-mechanism)
 * [How does SSI-AJAX help?](https://github.com/tpo/SSI-AJAX#how-does-ssi-ajax-help)
 * [Shortcomings of SSI-AJAX](https://github.com/tpo/SSI-AJAX#shortcomings-of-ssi-ajax)
 * [Usage](https://github.com/tpo/SSI-AJAX#shortcomings-of-ssi-ajax)
