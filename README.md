@@ -137,6 +137,7 @@ case unresolved.
 
 `included.html` is a URL. See
 [here](https://httpd.apache.org/docs/current/mod/mod_include.html#includevirtual)
+for reference documentation of the syntax.
 
 ### Apache-side configuration
 
