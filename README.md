@@ -172,7 +172,7 @@ The syntax of the inclusion mechanism ("ssi-ajax" tag) was inspired by
 ## References
 
 * [Apache mod_include documentation](https://httpd.apache.org/docs/current/mod/mod_include.html)
-* [Péter Vértényi's post]
+* [Péter Vértényi's post](https://stackoverflow.com/a/46928819)
 * a few discussions on StackOverflow about a HTML "include" mechanisms:
   [here](https://stackoverflow.com/questions/3928331/equivalent-of-include-in-html),
   [here](https://stackoverflow.com/questions/8988855/include-another-html-file-in-a-html-file),
